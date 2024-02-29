@@ -1,0 +1,104 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+.DS_Store
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static Libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+
+# CMake build directory
+build/
+
+# Visual Studio Code settings
+.vscode/
+
+# JetBrains IDE settings
+.idea/
+
+# Eclipse settings
+.classpath
+.project
+.settings/
+
+# NetBeans settings
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Xcode settings
+*.xcodeproj/
+*.xcworkspace/
+
+# Sublime Text settings
+*.sublime-project
+*.sublime-workspace
+
+# Code::Blocks settings
+*.cbp
+*.layout
+
+# Qt Creator settings
+*.pro.user
+*.user
+*.autosave
+
+# CLion settings
+.idea/
+
+# Visual Studio settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.opendb
+*.sdf
+*.dbmdl
+*.log
+*.tlog
+*.lastbuildstate
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ll][Oo][Gg][Ss]/
+[Ll][Ii][Bb][Rr][Aa][Rr][Ii][Ee][Ss]/
+[Ll][Ii][Bb][Oo][Bb][Jj]/
+[Ll][Ii][Bb][Cc][Aa][Cc][Hh][Ee]/
+[Ww][Ii][Nn]32/
+[Ww][Ii][Nn]64/
+[Bb][Ii][Nn]/[Dd][Ee][Bb][Uu][Gg]/
+[Bb][Ii][Nn]/[Rr][Ee][Ll][Ee][Aa][Ss][Ee]/
+[Bb][Ii][Nn]/x64/
+[Bb][Ii][Nn]/x86/
+[Bb][Ll][Oo][Dd]/
+
+# Custom C++ build directories
+bin/
+gen/
+lib/
+out/
